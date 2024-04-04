@@ -2,9 +2,14 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+
+
+import os
+import sys
+
+project = 'prOTein'
+copyright = '2024, Camara Lab'
+author = 'Elijah Gunther'
 
 release = '0.1'
 version = '0.1.0'
