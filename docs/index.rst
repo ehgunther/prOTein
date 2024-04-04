@@ -1,3 +1,6 @@
+.. CAJAL documentation master file
+
+
 Welcome to prOTein's documentation!
 ===================================
 
@@ -10,8 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development. Documentation and code will be updated continuously
 
-Contents
---------
+
 
 
 
