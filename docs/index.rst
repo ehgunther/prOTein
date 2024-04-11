@@ -42,8 +42,8 @@ how to :ref:`installation` the project.
    :maxdepth: 1
    :caption: Examples
 
-   notebooks/Example_1
-   notebooks/FGW_protein Tester
+   Example_1
+   FGW_protein Tester
 
 
 
